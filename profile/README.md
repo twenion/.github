@@ -1,4 +1,4 @@
-# TWENION
+# Twenion
 
 - [cargo-site-demo](https://twenion.github.io/cargo-site-demo/)
 - [ecommerce-site-demo](https://twenion.github.io/ecommerce-site-demo/)
