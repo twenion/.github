@@ -1,6 +1,6 @@
 # Twenion
 
-**Evidence-led digital work for small businesses.**
+**Evidence-led digital work for businesses.**
 
 We find concrete friction in websites, conversion flows, measurement, and operations, then turn it into scoped, testable improvements. The tools follow the problem—frontend, analytics, backend and data work, or automation.
 
@@ -25,4 +25,4 @@ These are fictional portfolio and sales demos, not client projects. Their forms 
 
 ## Contact
 
-[Email](mailto:twenionhq@gmail.com) · [Instagram](https://www.instagram.com/twenion21/) · [X](https://x.com/twenionhq) · [TikTok](https://www.tiktok.com/@twenionhq)
+[Email](https://mail.google.com/mail/?view=cm&fs=1&to=twenionhq@gmail.com) · [Instagram](https://www.instagram.com/twenion21/) · [X](https://x.com/twenionhq) · [TikTok](https://www.tiktok.com/@twenionhq)
